@@ -64,3 +64,10 @@ With experience in **frontend and backend development**, I thrive on transformin
 ---
 
 ✨ *"Code is like humor. When you have to explain it, it’s bad."*  
+---
+<p align="left">
+<a href="https://github.com/rohman234">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
